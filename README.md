@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/90939274/146991455-e2eb1c59-6b3d-461d-81f4-78e9090c9f19.png" width="400">
 
-¡Hola! Somos el *Team Pikachu*, un grupo de científicos computacionales y nos encantan las amanecidas. En este proyecto usamos la librería Matplotlib para generar gráficos apartir de un archivo JSON donde se encuentran los datos de los Pokemones.
+¡Hola! Somos el *Team Pikachu*, un grupo de científicos computacionales y nos encantan las amanecidas. En este proyecto usamos la librería Matplotlib para generar gráficos apartir de un archivo JSON donde se encuentran los datos de los Pokemones🙂.
 
 ## Nombre de los integrantes e ID de GitHub
 
