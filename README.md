@@ -10,10 +10,10 @@
 
 ## Nombre de los integrantes e ID de GitHub
 
-- Capuñay Correa, Mariana Aurora - ID: 91635108
-- Huarino Anchillo, Noemi Alejandra  - ID: 91573449
-- Isidro Salazar, Leonardo Daniel - ID: 90939274
-- Tovar Tolentino, Mariel Carolina - ID: 91162593
+- Capuñay Correa, Mariana Aurora - `ID: 91635108`
+- Huarino Anchillo, Noemi Alejandra  - `ID: 91573449`
+- Isidro Salazar, Leonardo Daniel - `ID: 90939274`
+- Tovar Tolentino, Mariel Carolina - `ID: 91162593`
 
 ## Instrucciones para ejecutar el proyecto
 
