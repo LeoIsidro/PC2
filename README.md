@@ -10,10 +10,10 @@
 
 # Nombre de los integrantes e ID de GitHub
 
-- Capuñay Correa, Mariana Aurora - `ID:91635108`
-- Huarino Anchillo, Noemi Alejandra  - `ID:91573449`
-- Isidro Salazar, Leonardo Daniel - `ID:90939274`
-- Tovar Tolentino, Mariel Carolina - `ID:91162593`
+- Capuñay Correa, Mariana Aurora - ID:91635108
+- Huarino Anchillo, Noemi Alejandra  - ID:91573449
+- Isidro Salazar, Leonardo Daniel - ID:90939274
+- Tovar Tolentino, Mariel Carolina - ID:91162593
 
 # Instrucciones para ejecutar el proyecto
 
@@ -42,7 +42,6 @@ En el ejercicio 3 mostramos en la imagen `kanto.png` las ubicaciones de todos lo
   
 ![grafico3](https://user-images.githubusercontent.com/90939274/147004559-41e21bf4-14e0-4320-97e9-21850e76fe22.jpg)
 
-Imagen referencial
 
 Ejercico 4
 
