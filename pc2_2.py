@@ -1,7 +1,6 @@
 # Crear un scatterplot en el cual se muestre la altura de los pokemones en centimetros en el eje X, y el peso de los pokemones en kg en el eje Y.
 import matplotlib.pyplot as plt
-from aux_functions import getAllPokemons, getPokemonByName, getLocationsByName, getTypesByName, getWeaknessesByName
-
+from aux_functions import getAllPokemons
 
 def ejercicio2():
     # x: altura en cm
