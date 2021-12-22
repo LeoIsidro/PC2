@@ -30,7 +30,7 @@ def ejercicio1():
     #print(len(tipo))
     colors = ["sienna", "chocolate", "saddlebrown", "peachpuff", "sandybrown", "peru", "bisque", "darkorange", "tan", "navajowhite", "orange", "burlywood", "moccasin", "wheat", "goldenrod"]
 
-    plt.legend('')
+   
     plt.title('CANTIDAD DE POKEMONES QUE TIENEN DICHO TIPO COMO UNA DEBILIDAD', c='olivedrab', fontsize=20)
     plt.xlabel('Tipos de pokemones', c= 'lightseagreen', fontsize=17, fontname= 'Comic Sans MS')
     plt.ylabel('Cantidad de pokemones', c= 'lightseagreen', fontsize=17, fontname='Comic Sans MS')
