@@ -1,6 +1,6 @@
 # Mostar en el mapa de kanto.png la ubicación de todos los pokemons cuyo id es un número primo. El cálculo o verificación de si el número es primo debe realizarse en código, en otras palabras, no será aceptable que obtenga los pokemons con id primo de manera manual.
 import matplotlib.pyplot as plt
-from aux_functions import getAllPokemons, getPokemonByName, getLocationsByName, getTypesByName, getWeaknessesByName
+from aux_functions import getAllPokemons, getLocationsByName
 
 
 def primo(num):
