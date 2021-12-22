@@ -1,7 +1,7 @@
 # Crear un gráfico de barras en el cual se muestre los tipos de pokemon en el eje X, y la cantidad de pokemones que tienen dicho tipo como una debilidad en el eje Y.
 import matplotlib.pyplot as plt
 
-from aux_functions import getAllPokemons, getPokemonByName, getLocationsByName, getTypesByName, getWeaknessesByName
+from aux_functions import getAllPokemons
 
 
 def ejercicio1():
