@@ -77,7 +77,8 @@ En el ejercicio 3 mostramos la imagen `kanto.png` con las ubicaciones de todos l
 - Paso 8: Como decidimos usar el gráfico step chart, tuvimos que hacer uso de la función `step`. Dentro de esta incluimos como parámetros a nombres (eje x), eggs (eje y) y c=red (color).
 
 
-![image](https://user-images.githubusercontent.com/91162593/147019458-18c36179-3e97-4423-b16e-6b6840908e37.png)
+![image](https://user-images.githubusercontent.com/91573449/147035465-46c462cf-5a7f-4564-a27b-57a43b281f01.png)
+
 
 
 
