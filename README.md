@@ -21,7 +21,7 @@
 ## Instrucciones para ejecutar el proyecto
 
 ```diff
-+Ejercicio 1 in green
++Ejercicio 1
 ```
 
 En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
@@ -33,12 +33,17 @@ En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la c
 ![gráfico1](https://user-images.githubusercontent.com/91573449/147019870-3046135c-1187-4a50-b7a3-12332004ddb0.png)
 
 
+```diff
++Ejercicio 2
+```
 
-Ejercicio 2
+![grafico2](https://user-images.githubusercontent.com/91573449/147022636-ead9e895-8770-4f90-8414-d82d7939c83e.png)
 
-![grafico2](https://user-images.githubusercontent.com/90939274/147004992-100cd192-5a9d-4c1b-95f1-55fd5430faac.jpg)
 
-Ejercicio 3
+
+```diff
++Ejercicio 3
+```
 
 En el ejercicio 3 mostramos en la imagen `kanto.png` las ubicaciones de todos los pokemones cuyo `id` sea un numero primo.
 - Paso 1 : Creamos una función que verifique si un numero es primo.
@@ -49,7 +54,9 @@ En el ejercicio 3 mostramos en la imagen `kanto.png` las ubicaciones de todos lo
 ![grafico3](https://user-images.githubusercontent.com/90939274/147004559-41e21bf4-14e0-4320-97e9-21850e76fe22.jpg)
 
 
-Ejercico 4
+```diff
++Ejercicio 4
+```
 
 ![image](https://user-images.githubusercontent.com/91162593/147019458-18c36179-3e97-4423-b16e-6b6840908e37.png)
 
