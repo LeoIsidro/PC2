@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/90939274/146991455-e2eb1c59-6b3d-461d-81f4-78e9090c9f19.png" width="400">
 
-## Nombre de los integrantes e ID de GitHub
+## Nombres de los integrantes e ID de GitHub
 | NOMBRE | ID |
 | ------------- | ------------- |
 | Capuñay Correa, Mariana Aurora  | 91635108  |
