@@ -16,7 +16,6 @@ def ejercicio4():
         eggs.append(egg)
         nombres.append(pokemon['name'])
 
-    plt.legend('')
     plt.title('DISTANCIA A LA QUE SE ENCUENTRA CADA HUEVO DE POKEMON', c='olivedrab', fontsize=20)
     plt.xlabel('Pokemones', c='teal', fontsize= 17)
     plt.ylabel('Distancia en km', c='teal', fontsize= 17)
