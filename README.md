@@ -9,8 +9,7 @@
 ¡Hola! Somos el *Team Pikachu*, un grupo de científicos computacionales y nos encantan las amanecidas. En este proyecto usamos la librería `Matplotlib` para generar gráficos apartir de un archivo `JSON` donde se encuentran los datos de los Pokemones🙂.
 
 ## Nombre de los integrantes e ID de GitHub
-
-|            NOMBRE            | ID("bt.azul") |
+|   NOMBRE  | ID("bt.azul") |
 | ------------- --------------------| ---------|
 | Capuñay Correa, Mariana Aurora    | 91635108 |
 | Huarino Anchillo, Noemi Alejandra | 91573449 |
