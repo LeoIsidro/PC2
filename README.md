@@ -21,11 +21,8 @@
 ## Instrucciones para ejecutar el proyecto
 
 ```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-
 Ejercicio 1
+```
 
 En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
 - Paso 1 : Creamos dos listas, en donde agregamos los tipos y las debilidades de pokemones existentes.
