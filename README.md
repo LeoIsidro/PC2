@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/90939274/146991455-e2eb1c59-6b3d-461d-81f4-78e9090c9f19.png" width="400">
 
 ## Nombres de los integrantes e ID de GitHub
-| NOMBRE | ID |
+| APELLIDOS Y NOMBRES | ID |
 | ------------- | ------------- |
 | Capuñay Correa, Mariana Aurora  | 91635108  |
 | Huarino Anchillo, Noemi Alejandra | 91573449  |
