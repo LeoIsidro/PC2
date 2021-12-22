@@ -29,7 +29,6 @@ def ejercicio2():
     csfont = {'fontname': 'Comic Sans MS'}
 
     # leyenda
-    plt.legend('')
     plt.title('ALTURA Y PESO DE LOS POKEMONES', c='olivedrab', fontsize=23)
     plt.xlabel('Altura en cm', c='firebrick', fontsize= 19, **csfont)
     plt.ylabel('Peso en kg', c='firebrick', fontsize= 19, **csfont)
