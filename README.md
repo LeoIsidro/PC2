@@ -34,7 +34,8 @@ En el ejercicio 1 mostramos un gráfico de barras con cada tipo de pokemon y la 
 - Paso 8 : Definimos en `plt.xlabel` y `plt.ylabel` los tipos de pokemones y cantidad de pokemones respectivamente.
 - Paso 9 : Generamos el grafico de barras definiendo como parametros el tipo y cantidad de pokemones , asi como tambien el color.
 
-![gráfico1](https://user-images.githubusercontent.com/91573449/147033611-ea3621a5-4e7c-463f-b0ab-95daa7d1c779.png)
+![gráfico1](https://user-images.githubusercontent.com/91573449/147034928-aa28d9a6-f2f3-4f04-b95f-8eb33ebb3727.png)
+
 
 
 
@@ -43,7 +44,8 @@ En el ejercicio 1 mostramos un gráfico de barras con cada tipo de pokemon y la 
 +Ejercicio 2
 ```
 
-![grafico2](https://user-images.githubusercontent.com/91573449/147022636-ead9e895-8770-4f90-8414-d82d7939c83e.png)
+![grafico2](https://user-images.githubusercontent.com/91573449/147035006-909a1f29-053b-4565-b5c5-287d6a398a8f.png)
+
 
 
 
@@ -58,13 +60,14 @@ En el ejercicio 3 mostramos la imagen `kanto.png` con las ubicaciones de todos l
 - Paso 5 : Generamos la imagen `Kanto.png` con las posiciones de los pokemones con `id` primo.
 
   
-![grafico3](https://user-images.githubusercontent.com/90939274/147004559-41e21bf4-14e0-4320-97e9-21850e76fe22.jpg)
+![grafico3](https://user-images.githubusercontent.com/91573449/147035272-d50d969f-7a53-434f-b2c8-ba6cc5a27bd4.png)
+
 
 
 ```diff
 +Ejercicio 4
 ```
-- Paso 1: Obtenemos la información de todos los pokemones y la almacenamos en la variable `pokemones`.
+- Paso 1: Obtenemos la información de todos los pokemones y la almacenamos en la variable `pokemones`
 - Paso 2: Realizamos un corte a la variable `pokemones`, tomamos en cuenta todos los elementos (desde el primero hasta el último) con `step=20`.
 - Paso 3: Creamos las listas `eggs` y `nombres`.
 - Paso 4: Accedemos a la información de cada pokemon con ayuda de un ciclo `for` aplicado a `pokemones`.
