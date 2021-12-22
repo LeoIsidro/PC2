@@ -21,7 +21,7 @@
 ## Instrucciones para ejecutar el proyecto
 
 ```diff
--Ejercicio 1
++ ### EJERCICIO 1 
 ```
 
 En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
