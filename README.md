@@ -26,7 +26,7 @@ En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la c
 - Paso 3 : Creamos una lista donde almacenamos los colores que va a tener cada barra.
 - Paso 4 : Definimos en `plt.xlabel` y `plt.ylabel` los tipos de pokemones y cantidad de pokemones respectivamente.
 - Paso 5 : Generamos el grafico de barras definiendo como parametros el tipo y cantidad de pokemones , asi como tambien el color.
-![grafico1]![image](https://user-images.githubusercontent.com/91573449/147018611-6aa86a7a-8ff1-4d16-9c67-d95bd533218f.png)
+![gráfico1](https://user-images.githubusercontent.com/91573449/147018611-6aa86a7a-8ff1-4d16-9c67-d95bd533218f.png)
 
 
 Ejercicio 2
