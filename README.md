@@ -64,7 +64,7 @@ En el ejercicio 3 mostramos la imagen `kanto.png` con las ubicaciones de todos l
 ```diff
 +Ejercicio 4
 ```
-- Paso 1: Obtenemos la información de todos los pokemones y la almacenamos en la variable `pokemones`
+- Paso 1: Obtenemos la información de todos los pokemones y la almacenamos en la variable `pokemones`.
 - Paso 2: Realizamos un corte a la variable `pokemones`, tomamos en cuenta todos los elementos (desde el primero hasta el último) con `step=20`.
 - Paso 3: Creamos las listas `eggs` y `nombres`.
 - Paso 4: Accedemos a la información de cada pokemon con ayuda de un ciclo `for` aplicado a `pokemones`.
