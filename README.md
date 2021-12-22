@@ -20,6 +20,10 @@
 
 ## Instrucciones para ejecutar el proyecto
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 
 Ejercicio 1
 
