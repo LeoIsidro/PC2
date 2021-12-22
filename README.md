@@ -25,7 +25,7 @@
 ```
 En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
 - Paso 1 : Creamos dos listas, en donde agregamos los tipos y las debilidades de pokemones existentes.
-- Paso 2 : Aplicamos un ciclo `for` a la lista de debilidades, para almacenar en una lista contador la cantidad de pokemones que tienen como debilidad cada tipo de pokemon existente.
+- Paso 2 : Aplicamos un ciclo `for` a la lista de debilidades para almacenar en una lista contador la cantidad de pokemones que tienen como debilidad cada tipo de pokemon existente.
 - Paso 3 : Creamos una lista donde almacenamos los colores que va a tener cada barra.
 - Paso 4 : Definimos en `plt.xlabel` y `plt.ylabel` los tipos de pokemones y cantidad de pokemones respectivamente.
 - Paso 5 : Generamos el grafico de barras definiendo como parametros el tipo y cantidad de pokemones , asi como tambien el color.
