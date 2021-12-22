@@ -45,7 +45,7 @@ En el ejercicio 3 mostramos en la imagen `kanto.png` las ubicaciones de todos lo
 
 Ejercico 4
 
-Imagen referencial
+![image](https://user-images.githubusercontent.com/91162593/147018381-ecb0ca7b-82e1-489f-aa88-d509696058c4.png)
 
 
 
