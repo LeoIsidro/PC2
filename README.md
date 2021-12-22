@@ -23,7 +23,7 @@
 ```diff
 +Ejercicio 1
 ```
-En el ejercicio 1 mostramos un gráfico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
+En el ejercicio 1 mostramos un `gráfico de barras` con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
 - Paso 1 : Creamos dos listas, `tipo` y  `weaknesses_1` para agregar los tipos y debilidades de los pokemones obtenidos.
 - Paso 2 : Aplicamos un ciclo `for` a la cantidad de pokemones para así iterar en todos los tipos sin repetición, y almacenarlos en la lista correspondiente.
 - Paso 3 : Aplicamos otro ciclo `for` a la cantidad de pokemones para así iterar en todas las debilidades y almacenarlos en la lista correspondiente.
@@ -37,16 +37,15 @@ En el ejercicio 1 mostramos un gráfico de barras con cada tipo de pokemon y la 
 ![gráfico1](https://user-images.githubusercontent.com/91573449/147034928-aa28d9a6-f2f3-4f04-b95f-8eb33ebb3727.png)
 
 
-
-
-
 ```diff
 +Ejercicio 2
 ```
-
+En el ejercicio 2 mostramos el gráfico `scatterplot` con la altura y peso de cada pokémon.
+- Paso 1 : Creamos dos listas `x` e `y` para agregar la altura y peso de los pokemones obtenidos.
+- Paso 2 : Aplicamos otro ciclo `for` que recorre cada elemento de `pokemones`, con el objetivo de encontrar las alturas y pesos de cada uno.
+- Paso 3 : Definimos `plt.xlabel` y `plt.ylabel` para almacenar la altura y peso de cada pokémon respectivamente.
+- Paso 4 : Generamos el gráfico  `scatterplot` definiendo como parámetros la altura y peso de cada unos de estos, así como también el color.
 ![grafico2](https://user-images.githubusercontent.com/91573449/147035006-909a1f29-053b-4565-b5c5-287d6a398a8f.png)
-
-
 
 
 ```diff
@@ -63,10 +62,10 @@ En el ejercicio 3 mostramos la imagen `kanto.png` con las ubicaciones de todos l
 ![grafico3](https://user-images.githubusercontent.com/91573449/147035272-d50d969f-7a53-434f-b2c8-ba6cc5a27bd4.png)
 
 
-
 ```diff
 +Ejercicio 4
 ```
+En el ejercicio 4 mostramos un gráfico `step chart` con los nombres y huevos de determinados pokemones.
 - Paso 1: Obtenemos la información de todos los pokemones y la almacenamos en la variable `pokemones`
 - Paso 2: Realizamos un corte a la variable `pokemones`, tomamos en cuenta todos los elementos (desde el primero hasta el último) con `step=20`.
 - Paso 3: Creamos las listas `eggs` y `nombres`.
