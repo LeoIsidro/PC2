@@ -33,7 +33,7 @@ En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la c
 
 
 
-Ejercicio 2 simp
+Ejercicio 2 simp("bt.azul")
 
 ![grafico2](https://user-images.githubusercontent.com/90939274/147004992-100cd192-5a9d-4c1b-95f1-55fd5430faac.jpg)
 
