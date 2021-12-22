@@ -23,12 +23,16 @@
 ```diff
 +Ejercicio 1
 ```
-En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
-- Paso 1 : Creamos dos listas, en donde agregamos los tipos y las debilidades de pokemones existentes.
-- Paso 2 : Aplicamos un ciclo `for` a la lista de debilidades para almacenar en una lista contador la cantidad de pokemones que tienen como debilidad cada tipo de pokemon existente.
-- Paso 3 : Creamos una lista donde almacenamos los colores que va a tener cada barra.
-- Paso 4 : Definimos en `plt.xlabel` y `plt.ylabel` los tipos de pokemones y cantidad de pokemones respectivamente.
-- Paso 5 : Generamos el grafico de barras definiendo como parametros el tipo y cantidad de pokemones , asi como tambien el color.
+En el ejercicio 1 mostramos un gráfico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
+- Paso 1 : Creamos dos listas, `tipo` y  `weaknesses_1` para agregar los tipos y debilidades de los pokemones obtenidos.
+- Paso 2 : Aplicamos un ciclo `for` a la cantidad de pokemones para así iterar en todos los tipos sin repetición, y almacenarlos en la lista correspondiente.
+- Paso 3 : Aplicamos otro ciclo `for` a la cantidad de pokemones para así iterar en todas las debilidades y almacenarlos en la lista correspondiente.
+- Paso 4 : Se procede a crear una lista llamada `cantidad` con la misma longitud de la lista `tipos`.
+- Paso 5 : Luego aplicar un ciclo `for` para iterar en la longitud de la lista `weaknesses_1` para así realizar comparaciones entre los elementos de la listas `tipo` y  `weaknesses_1`.
+- Paso 6 : Finalmente agregar 1 al elemento de la posición dada en la lista `tipo` para saber después cuántas veces se repitió.
+- Paso 7 : Creamos una lista donde almacenamos los colores que va a tener cada barra.
+- Paso 8 : Definimos en `plt.xlabel` y `plt.ylabel` los tipos de pokemones y cantidad de pokemones respectivamente.
+- Paso 9 : Generamos el grafico de barras definiendo como parametros el tipo y cantidad de pokemones , asi como tambien el color.
 ![gráfico1](https://user-images.githubusercontent.com/91573449/147033611-ea3621a5-4e7c-463f-b0ab-95daa7d1c779.png)
 
 
@@ -45,12 +49,13 @@ En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la c
 ```diff
 +Ejercicio 3
 ```
+En el ejercicio 3 mostramos la imagen `kanto.png` con las ubicaciones de todos los pokemones cuyo `id` sea un numero primo.
+- Paso 1 : Creamos la  función `es primo()` que verifica si el id del pokemon es un numero primo.
+- Paso 2 : Creamos la  función `ejercicio3()` en donde obtendremos las coordenadas de los pokemones con id primo.  
+- Paso 3 : Dentro de la función `ejercicio3()` creamos dos listas en donde almacenamos los valores de las coordenadas `x`, `y` , los cuales obtuvimos al utilizar la función `getLocationsByName()`.
+- Paso 4 : Definimos en `plt.plot()` el valor de `x` , `y`. 
+- Paso 5 : Generamos la imagen `Kanto.png` con las posiciones de los pokemones con `id` primo.
 
-En el ejercicio 3 mostramos en la imagen `kanto.png` las ubicaciones de todos los pokemones cuyo `id` sea un numero primo.
-- Paso 1 : Creamos una función que verifique si un numero es primo.
-- Paso 2 : Creamos una función en la cual utilizamos la funcion anterior, luego creamos dos listas en donde almacenamos los valores de las coordenadas `x`, `y` de cada
-  pokemon. 
-- Paso 3 : 
   
 ![grafico3](https://user-images.githubusercontent.com/90939274/147004559-41e21bf4-14e0-4320-97e9-21850e76fe22.jpg)
 
