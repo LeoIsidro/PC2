@@ -20,7 +20,7 @@
 
 ## Instrucciones para ejecutar el proyecto
 
-### ```diff + EJERCICIO 1 ```
+### ``` + EJERCICIO 1 ```
 En el ejercicio 1 mostramos un grafico de barras con cada tipo de pokemon y la cantidad de pokemones que tienen este tipo como debilidad.
 - Paso 1 : Creamos dos listas, en donde agregamos los tipos y las debilidades de pokemones existentes.
 - Paso 2 : Aplicamos un ciclo `for` a la lista de debilidades, para almacenar en una lista contador la cantidad de pokemones que tienen como debilidad cada tipo de pokemon existente.
