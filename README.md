@@ -40,10 +40,10 @@ En el ejercicio 1 mostramos un `gráfico de barras` con cada tipo de pokemon y l
 ```diff
 +Ejercicio 2
 ```
-En el ejercicio 2 mostramos el gráfico `scatterplot` con la altura y peso de cada pokémon.
+En el ejercicio 2 mostramos el gráfico `scatterplot` con la altura y peso de cada pokemon.
 - Paso 1 : Creamos dos listas `x` e `y` para agregar la altura y peso de los pokemones obtenidos.
 - Paso 2 : Aplicamos otro ciclo `for` que recorre cada elemento de `pokemones`, con el objetivo de encontrar las alturas y pesos de cada uno.
-- Paso 3 : Definimos `plt.xlabel` y `plt.ylabel` para almacenar la altura y peso de cada pokémon respectivamente.
+- Paso 3 : Definimos `plt.xlabel` y `plt.ylabel` para almacenar la altura y peso de cada pokemon respectivamente.
 - Paso 4 : Generamos el gráfico  `scatterplot` definiendo como parámetros la altura y peso de cada unos de estos, así como también el color.
 ![grafico2](https://user-images.githubusercontent.com/91573449/147035006-909a1f29-053b-4565-b5c5-287d6a398a8f.png)
 
