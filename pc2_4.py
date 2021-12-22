@@ -1,8 +1,7 @@
 # Gráfico de libre elección. Utilice alguno de los gráficos no utilizados en el curso de la libreria matplotlib para mostrar información que usted considere relevante de los pokemones.
 
 import matplotlib.pyplot as plt
-from aux_functions import getAllPokemons, getPokemonByName, getLocationsByName, getTypesByName, getWeaknessesByName
-
+from aux_functions import getAllPokemons
 
 # eggs de todos los pokemones desde el id 10, de 15 en 15
 def ejercicio4():
